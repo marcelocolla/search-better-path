@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Porto Alegre",
+    "nearby": [
+      {
+        "name": "Florianópolis",
+        "air": 376,
+        "road": 476
+      }
+    ]
+  },
+  {
+    "name": "Florianópolis",
+    "nearby": [
+      {
+        "name": "Porto Alegre",
+        "air": 376,
+        "road": 476
+      },
+      {
+        "name": "Curitiba",
+        "air": 251,
+        "road": 300
+      }
+    ]
+  },
+  {
+    "name": "Curitiba",
+    "nearby": [
+      {
+        "name": "Florianópolis",
+        "air": 251,
+        "road": 300
+      },
+      {
+        "name": "São Paulo",
+        "air": 338,
+        "road": 408
+      },
+      {
+        "name": "Campo Grande",
+        "air": 780,
+        "road": 991
+      }
+    ]
+  },
+  {
+    "name": "São Paulo",
+    "nearby": [
+      {
+        "name": "Curitiba",
+        "air": 338,
+        "road": 408
+      },
+      {
+        "name": "Rio de Janeiro",
+        "air": 357,
+        "road": 429
+      },
+      {
+        "name": "Belo Horizonte",
+        "air": 489,
+        "road": 586
+      },
+      {
+        "name": "Brasilia",
+        "air": 873,
+        "road": 1015
+      },
+      {
+        "name": "Cuíaba",
+        "air": 1326,
+        "road": 1614
+      }
+    ]
+  },
+  {
+    "name": "Campo Grande",
+    "nearby": [
+      {
+        "name": "Curitiba",
+        "air": 780,
+        "road": 991
+      },
+      {
+        "name": "Cuíaba",
+        "air": 559,
+        "road": 694
+      }
+    ]
+  },
+  {
+    "name": "Cuíaba",
+    "nearby": [
+      {
+        "name": "São Paulo",
+        "air": 1326,
+        "road": 1614
+      },
+      {
+        "name": "Campo Grande",
+        "air": 559,
+        "road": 694
+      },
+      {
+        "name": "Brasilia",
+        "air": 873,
+        "road": 1133
+      },
+      {
+        "name": "Porto Velho",
+        "air": 1137,
+        "road": 1456
+      }
+    ]
+  },
+  {
+    "name": "Porto Velho",
+    "nearby": [
+      {
+        "name": "Cuíaba",
+        "air": 1137,
+        "road": 1456
+      },
+      {
+        "name": "Rio Branco",
+        "air": 449,
+        "road": 554
+      },
+      {
+        "name": "Manaus",
+        "air": 761,
+        "road": 901
+      }
+    ]
+  },
+  {
+    "name": "Rio Branco",
+    "nearby": [
+      {
+        "name": "Porto Velho",
+        "air": 449,
+        "road": 554
+      },
+      {
+        "name": "Manaus",
+        "air": 1149,
+        "road": 1445
+      }
+    ]
+  },
+  {
+    "name": "Manaus",
+    "nearby": [
+      {
+        "name": "Porto Velho",
+        "air": 761,
+        "road": 901
+      },
+      {
+        "name": "Rio Branco",
+        "air": 1149,
+        "road": 1445
+      },
+      {
+        "name": "Brasilia",
+        "air": 1932,
+        "road": 3490
+      },
+      {
+        "name": "Belém",
+        "air": 1292,
+        "road": 5298
+      },
+      {
+        "name": "Boa Vista",
+        "air": 661,
+        "road": 785
+      }
+    ]
+  },
+  {
+    "name": "Boa Vista",
+    "nearby": [
+      {
+        "name": "Manaus",
+        "air": 661,
+        "road": 785
+      }
+    ]
+  },
+  {
+    "name": "Belém",
+    "nearby": [
+      {
+        "name": "Manaus",
+        "air": 1292,
+        "road": 5298
+      },
+      {
+        "name": "Macapá",
+        "air": 329,
+        "road": 0
+      }
+    ]
+  },
+  {
+    "name": "Macapá",
+    "nearby": [
+      {
+        "name": "Belém",
+        "air": 329,
+        "road": 0
+      }
+    ]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "nearby": [
+      {
+        "name": "Vitória",
+        "air": 412,
+        "road": 521
+      },
+      {
+        "name": "Salvador",
+        "air": 1209,
+        "road": 1649
+      },
+      {
+        "name": "Belo Horizonte",
+        "air": 339,
+        "road": 434
+      },
+      {
+        "name": "São Paulo",
+        "air": 357,
+        "road": 429
+      }
+    ]
+  },
+  {
+    "name": "Belo Horizonte",
+    "nearby": [
+      {
+        "name": "Rio de Janeiro",
+        "air": 339,
+        "road": 434
+      },
+      {
+        "name": "São Paulo",
+        "air": 489,
+        "road": 434
+      },
+      {
+        "name": "Brasilia",
+        "air": 624,
+        "road": 716
+      }
+    ]
+  },
+  {
+    "name": "Brasilia",
+    "nearby": [
+      {
+        "name": "São Paulo",
+        "air": 624,
+        "road": 115
+      },
+      {
+        "name": "Belo Horizonte",
+        "air": 624,
+        "road": 716
+      },
+      {
+        "name": "Goiana",
+        "air": 173,
+        "road": 209
+      },
+      {
+        "name": "Cuiabá",
+        "air": 873,
+        "road": 1133
+      },
+      {
+        "name": "Manaus",
+        "air": 1932,
+        "road": 3490
+      },
+      {
+        "name": "Palmas",
+        "air": 620,
+        "road": 973
+      },
+      {
+        "name": "Fortaleza",
+        "air": 1687,
+        "road": 2200
+      }
+    ]
+  },
+  {
+    "name": "Goiana",
+    "nearby": [
+      {
+        "name": "Brasilia",
+        "air": 173,
+        "road": 209
+      }
+    ]
+  },
+  {
+    "name": "Palmas",
+    "nearby": [
+      {
+        "name": "Brasilia",
+        "air": 620,
+        "road": 973
+      }
+    ]
+  },
+  {
+    "name": "Vitória",
+    "nearby": [
+      {
+        "name": "Rio de Janeiro",
+        "air": 412,
+        "road": 521
+      }
+    ]
+  },
+  {
+    "name": "Salvador",
+    "nearby": [
+      {
+        "name": "Rio de Janeiro",
+        "air": 1209,
+        "road": 1649
+      },
+      {
+        "name": "Aracaju",
+        "air": 277,
+        "road": 356
+      },
+      {
+        "name": "Natal",
+        "air": 875,
+        "road": 1126
+      },
+      {
+        "name": "Fortaleza",
+        "air": 1028,
+        "road": 1389
+      }
+    ]
+  },
+  {
+    "name": "Aracaju",
+    "nearby": [
+      {
+        "name": "Maceió",
+        "air": 201,
+        "road": 294
+      },
+      {
+        "name": "Salvador",
+        "air": 277,
+        "road": 356
+      }
+    ]
+  },
+  {
+    "name": "Maceió",
+    "nearby": [
+      {
+        "name": "Aracaju",
+        "air": 201,
+        "road": 294
+      },
+      {
+        "name": "Recife",
+        "air": 202,
+        "road": 285
+      }
+    ]
+  },
+  {
+    "name": "Recife",
+    "nearby": [
+      {
+        "name": "Maceió",
+        "air": 202,
+        "road": 285
+      },
+      {
+        "name": "Fortaleza",
+        "air": 629,
+        "road": 800
+      },
+      {
+        "name": "João Pessoa",
+        "air": 104,
+        "road": 120
+      }
+    ]
+  },
+  {
+    "name": "João Pessoa",
+    "nearby": [
+      {
+        "name": "Recife",
+        "air": 104,
+        "road": 120
+      },
+      {
+        "name": "Natal",
+        "air": 151,
+        "road": 185
+      }
+    ]
+  },
+  {
+    "name": "Natal",
+    "nearby": [
+      {
+        "name": "João Pessoa",
+        "air": 151,
+        "road": 185
+      },
+      {
+        "name": "Salvador",
+        "air": 875,
+        "road": 1126
+      },
+      {
+        "name": "Fortaleza",
+        "air": 435,
+        "road": 537
+      }
+    ]
+  },
+  {
+    "name": "Fortaleza",
+    "nearby": [
+      {
+        "name": "Natal",
+        "air": 435,
+        "road": 537
+      },
+      {
+        "name": "Recife",
+        "air": 629,
+        "road": 800
+      },
+      {
+        "name": "Salvador",
+        "air": 1028,
+        "road": 1389
+      },
+      {
+        "name": "Brasilia",
+        "air": 1687,
+        "road": 2200
+      },
+      {
+        "name": "Teresina",
+        "air": 495,
+        "road": 634
+      },
+      {
+        "name": "São Luís",
+        "air": 652,
+        "road": 1070
+      }
+    ]
+  },
+  {
+    "name": "Teresina",
+    "nearby": [
+      {
+        "name": "Fortaleza",
+        "air": 495,
+        "road": 634
+      }
+    ]
+  },
+  {
+    "name": "São Luís",
+    "nearby": [
+      {
+        "name": "Fortaleza",
+        "air": 652,
+        "road": 1070
+      }
+    ]
+  }
+]
