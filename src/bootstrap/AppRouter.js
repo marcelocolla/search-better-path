@@ -1,17 +1,8 @@
 import React from 'react'
 
-import Header from 'components/header/Header'
-import Maps from 'components/maps/Maps'
-import OutputGenerated from 'components/outputGenerated/OutputGenerated'
-
+import MainPage from 'pages/MainPage'
 const AppRouter = () => {
-  return (
-    <section>
-      <Header />
-      <Maps />
-      <OutputGenerated />
-    </section>
-  )
+  return <MainPage />
 }
 
 export default AppRouter

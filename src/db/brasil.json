@@ -68,7 +68,7 @@
         "road": 1015
       },
       {
-        "name": "Cuíaba",
+        "name": "Cuiabá",
         "air": 1326,
         "road": 1614
       }
@@ -83,14 +83,14 @@
         "road": 991
       },
       {
-        "name": "Cuíaba",
+        "name": "Cuiabá",
         "air": 559,
         "road": 694
       }
     ]
   },
   {
-    "name": "Cuíaba",
+    "name": "Cuiabá",
     "nearby": [
       {
         "name": "São Paulo",
@@ -118,7 +118,7 @@
     "name": "Porto Velho",
     "nearby": [
       {
-        "name": "Cuíaba",
+        "name": "Cuiabá",
         "air": 1137,
         "road": 1456
       },
