@@ -38,7 +38,7 @@ const OutputGenerated = ({ data, loading }) => {
       <footer className={footerContainer}>
         <Box className={footerAlert}>
           <CheckCircleIcon />
-          <Typography>o meio {bestWayText} tornará sua viagem mais rápida!</Typography>
+          <Typography>A viagem mais curta é por meio {bestWayText}!</Typography>
         </Box>
 
         <Box className={boxIcons}>
