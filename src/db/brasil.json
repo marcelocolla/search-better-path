@@ -250,7 +250,7 @@
       {
         "name": "São Paulo",
         "air": 489,
-        "road": 434
+        "road": 586
       },
       {
         "name": "Brasilia",
@@ -264,8 +264,8 @@
     "nearby": [
       {
         "name": "São Paulo",
-        "air": 624,
-        "road": 115
+        "air": 873,
+        "road": 1015
       },
       {
         "name": "Belo Horizonte",
