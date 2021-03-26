@@ -273,7 +273,7 @@
         "road": 716
       },
       {
-        "name": "Goiana",
+        "name": "Goiânia",
         "air": 173,
         "road": 209
       },
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "name": "Goiana",
+    "name": "Goiânia",
     "nearby": [
       {
         "name": "Brasilia",
